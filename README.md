@@ -1,4 +1,4 @@
-### Hi, I'm Brandon 👋
+### 👋
 
  - 🌐  [brandonsturgeon.com](https://brandonsturgeon.com)  
  - 👔  [LinkedIn](https://www.linkedin.com/in/sturgeonb4)  
