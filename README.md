@@ -1,6 +1,7 @@
 ### 👋
 
-I'm Brandon. I'm a Full Stack Software Engineer. I like building high-quality open-source software for everyone to enjoy.
+I'm Brandon. I'm a Full Stack Software Engineer.
+I like building high-quality open-source software for everyone to enjoy.
 
 I also founded and own CFC Servers _(see below)_, a popular Gaming community.
 
